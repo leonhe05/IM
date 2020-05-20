@@ -1,0 +1,3 @@
+# IM
+这是一个即时通讯app
+服务端以springboot搭建，使用netty提供的websocket库实现客户端与服务端的双向通信
